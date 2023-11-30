@@ -1,1 +1,1 @@
-# lascaux-regular.otf
+# lascaux-signs.otf
